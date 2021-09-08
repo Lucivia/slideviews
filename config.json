@@ -3,6 +3,11 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "luci-tnc-preview"
+    "luci-tnc-preview",
+    "frontend",
+    "tnc-db",
+    "tnc-py",
+    "obs",
+    "deployment"
   ]
 }
