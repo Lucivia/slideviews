@@ -8,6 +8,7 @@
     "tnc-db",
     "tnc-py",
     "obs",
+    "tnc-test-data",
     "deployment"
   ]
 }
