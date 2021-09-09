@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/6 4:07 PM UTC
+			2021/9/7 4:07 PM UTC
 		</td>
 		<td>
 			1
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/6 4:08 PM UTC
+			2021/9/7 12:00 AM UTC
 		</td>
 		<td>
-			2
+			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Lucivia/slideviews/raw/master/graph/167859874/small/year.png" height="20"> 5
+			<img alt="Response time graph" src="https://github.com/Lucivia/slideviews/raw/master/graph/167859874/small/year.png" height="20"> 7
 		</td>
 	</tr>
 	<tr>
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/6 4:08 PM UTC
+			2021/9/7 4:08 PM UTC
 		</td>
 		<td>
 			0
@@ -74,13 +74,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/6 4:08 PM UTC
+			2021/9/7 12:00 AM UTC
 		</td>
 		<td>
-			1
+			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Lucivia/slideviews/raw/master/graph/123514727/small/year.png" height="20"> 1
+			<img alt="Response time graph" src="https://github.com/Lucivia/slideviews/raw/master/graph/123514727/small/year.png" height="20"> 2
 		</td>
 	</tr>
 	<tr>
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/6 4:08 PM UTC
+			2021/9/7 4:08 PM UTC
 		</td>
 		<td>
 			1
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/6 4:08 PM UTC
+			2021/9/7 4:08 PM UTC
 		</td>
 		<td>
 			0
@@ -122,18 +122,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/6 4:08 PM UTC
+			2021/9/7 12:00 AM UTC
 		</td>
 		<td>
-			2
+			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Lucivia/slideviews/raw/master/graph/395047455/small/year.png" height="20"> 5
+			<img alt="Response time graph" src="https://github.com/Lucivia/slideviews/raw/master/graph/395047455/small/year.png" height="20"> 6
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2021/9/8 6:06 PM UTC</i></small>
+<small><i>Last updated on 2021/9/9 12:08 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
