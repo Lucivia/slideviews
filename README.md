@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/28 12:07 AM UTC
+			2021/9/29 12:07 AM UTC
 		</td>
 		<td>
 			3
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/28 12:07 AM UTC
+			2021/9/29 12:00 AM UTC
 		</td>
 		<td>
-			4
+			5
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Lucivia/slideviews/raw/master/graph/167859874/small/year.png" height="20"> 12
+			<img alt="Response time graph" src="https://github.com/Lucivia/slideviews/raw/master/graph/167859874/small/year.png" height="20"> 15
 		</td>
 	</tr>
 	<tr>
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/28 12:00 AM UTC
+			2021/9/29 12:00 AM UTC
 		</td>
 		<td>
-			1
+			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Lucivia/slideviews/raw/master/graph/399678571/small/year.png" height="20"> 32
+			<img alt="Response time graph" src="https://github.com/Lucivia/slideviews/raw/master/graph/399678571/small/year.png" height="20"> 43
 		</td>
 	</tr>
 	<tr>
@@ -74,13 +74,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/28 12:08 AM UTC
+			2021/9/29 12:00 AM UTC
 		</td>
 		<td>
-			2
+			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Lucivia/slideviews/raw/master/graph/123514727/small/year.png" height="20"> 2
+			<img alt="Response time graph" src="https://github.com/Lucivia/slideviews/raw/master/graph/123514727/small/year.png" height="20"> 3
 		</td>
 	</tr>
 	<tr>
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/28 12:08 AM UTC
+			2021/9/29 12:07 AM UTC
 		</td>
 		<td>
 			1
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/28 12:08 AM UTC
+			2021/9/29 12:08 AM UTC
 		</td>
 		<td>
 			0
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/9/28 12:00 AM UTC
+			2021/9/29 12:08 AM UTC
 		</td>
 		<td>
 			7
@@ -133,7 +133,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2021/9/30 6:04 PM UTC</i></small>
+<small><i>Last updated on 2021/10/1 12:09 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
